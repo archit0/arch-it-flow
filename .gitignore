@@ -1,0 +1,10 @@
+# python specific
+*.pyc
+__pycache__/
+
+# IDE's
+.idea/
+
+# environment variables
+env
+env3
