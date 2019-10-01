@@ -1,3 +1,3 @@
 # Arch-It-Flow
 
-Helps you create workflows
+Helps you to create workflows as per your requirement.
